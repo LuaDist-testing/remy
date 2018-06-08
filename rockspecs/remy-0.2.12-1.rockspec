@@ -1,7 +1,8 @@
 package = "remy"
-version = "current-1"
+version = "0.2.12-1"
 source = {
    url = "git://github.com/sailorproject/remy",
+   tag = "v0.2.12-alpha"
 }
 description = {
    summary = "An abstraction of web servers supporting Lua",

@@ -88,6 +88,7 @@ function M.contentheader(content_type)
 end
 
 function M.finish(code)
+    request.native_request:set_headers(request.headers_out)
 end
 
 return M

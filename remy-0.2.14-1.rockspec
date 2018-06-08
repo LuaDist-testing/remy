@@ -1,16 +1,16 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "remy"
-version = "0.2.13-1"
+version = "0.2.14-1"
 -- LuaDist source
 source = {
-  tag = "0.2.13-1",
+  tag = "0.2.14-1",
   url = "git://github.com/LuaDist-testing/remy.git"
 }
 -- Original source
 -- source = {
 --    url = "git://github.com/sailorproject/remy",
---    tag = "v0.2.13-alpha"
+--    tag = "v0.2.14-alpha"
 -- }
 description = {
    summary = "An abstraction of web servers supporting Lua",
